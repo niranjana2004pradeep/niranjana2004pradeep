@@ -15,13 +15,16 @@
 
 ### A little more about me
 I'm currently working as an **AI Engineering Intern**, where I work on RAG systems, LLM integrations, agentic workflows, and AI backend services.
+
 I'm particularly interested in **AI Engineering, Agentic AI, RAG, LLM applications, and building reliable AI systems that solve real problems.**
+
 I'm always learning by building — and I'm currently going deeper into **AI system design, MCP, and production-oriented agentic workflows.**
+
 I've coordinated large college events when I'm not coding (8+ events, 7-person team — it's basically project management)
 
 ### Let's connect
 📧 **pradeepniranjana2004@gmail.com**
+
 💼 [LinkedIn](https://www.linkedin.com/in/niranjanapradeep-aa30772bb/)
-💻 [GitHub](https://github.com/niranjana2004pradeep)
 
 If you're building something interesting in AI, I'd be happy to connect.
