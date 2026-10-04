@@ -5,10 +5,10 @@
 **Python · LangChain · LangGraph · FastAPI · Groq · OpenAI API · PostgreSQL/pgvector · HuggingFace · Docker · AWS · Git/GitHub**
 
 ### Some things I've built
-- **Multi-Agent Customer Support System** — LangGraph workflow with safety checks, specialist-agent routing, and response review.
-- **Async RAG Backend** — FastAPI + PostgreSQL/pgvector + HuggingFace embeddings + Groq for document-based question answering.
-- **AI Website Generator** — LangChain + Groq pipeline generating coordinated HTML, CSS, and JavaScript from natural-language prompts.
-- **BehaviorNet** — Real-time AI classroom monitoring and behavioral analytics system.
+- **Multi-Agent Customer Support System** : LangGraph workflow with safety checks, specialist-agent routing, and response review.
+- **Async RAG Backend** : FastAPI + PostgreSQL/pgvector + HuggingFace embeddings + Groq for document-based question answering.
+- **AI Website Generator** : LangChain + Groq pipeline generating coordinated HTML, CSS, and JavaScript from natural-language prompts.
+- **BehaviorNet** : Real-time AI classroom monitoring and behavioral analytics system.
 
 🏆 Best Project Award — ASPREN 2026  
 🥈 Second Prize — Ingenium AI Expo 2026
